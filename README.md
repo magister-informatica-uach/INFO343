@@ -24,6 +24,10 @@ ver [Programa](https://docs.google.com/document/d/1TVyOWAzl-jEb-yI0xrYNhid8pyVgc
 	- Deep Learning para textos
 	
 - **Unidad 4:** Problema III: Datos textuales de medios de prensa / Modelamiento de tópicos
+	- Introducción al Modelamiento de tópicos
+	- Estimación mediante cálculo variacional
+	- Estimación mediante técnicas de muestreo
+	
 - **Unidad 5:** Problema IV: Redes Neuronales Artificiales y Deep Learning
 
 ***
