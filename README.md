@@ -20,8 +20,8 @@ ver [Programa](https://docs.google.com/document/d/1TVyOWAzl-jEb-yI0xrYNhid8pyVgc
 - **Unidad 2:** Problema I: Datos educativos
 - **Unidad 3:** Problema II: Datos textuales de medios de prensa / Tareas de clasificación
 	- Introducción al Tratamiento Automático del Lenguaje Humano: tokenización, stop-words, lematización, stemming, pos-tagging, NER-tagging, vectorización de textos y clasificación de textos básica [[TP]](unidad3/Notebook1.ipynb)
-	- Word-embeddings/Word2Vec
-	- Deep Learning para textos
+	- Words embedding y Word2Vec [[TP]](unidad3/Notebook2.ipynb)
+	- Introducción a Deep Learning para textos
 	
 - **Unidad 4:** Problema III: Datos textuales de medios de prensa / Modelamiento de tópicos
 	- Introducción al Modelamiento de tópicos
