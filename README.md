@@ -28,7 +28,10 @@ ver [Programa](https://docs.google.com/document/d/1TVyOWAzl-jEb-yI0xrYNhid8pyVgc
 	- Estimación mediante cálculo variacional
 	- Estimación mediante técnicas de muestreo
 	
-- **Unidad 5:** Problema IV: Redes Neuronales Artificiales y Deep Learning
+- **Unidad 5:** Problema IV: Redes Neuronales y Aprendizaje Profundo
+    - Fundamentos y aplicaciones de las redes neuronales artificiales 
+    - Redes neuronales profundas en detalle
+    - Introducción a la astroinformática
 
 ***
 ## Bibliografía 
@@ -36,6 +39,8 @@ ver [Programa](https://docs.google.com/document/d/1TVyOWAzl-jEb-yI0xrYNhid8pyVgc
 ### Principal
 1. [Trevor Hastie, Robert Tibshirani and Jerome Friedman, "The Elements of Statistical Learning Data Mining, Inference, and Prediction (2nd ed.)", *Springer*, 2009](http://web.stanford.edu/~hastie/ElemStatLearn/)
 1. [Christopher M. Bishop, "Pattern recognition and Machine Learning", *Springer*, 2009]()
+1. [Ian Goodfellow and Yoshua Bengio and Aaron Courville, "Deep Learning", *MIT Press*, 2016](https://www.deeplearningbook.org/)
+
 
 
 ### Complementaria
